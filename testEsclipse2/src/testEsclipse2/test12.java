@@ -9,5 +9,10 @@ public class test12 {
 		
 		//note for student
 	}
+	
+	public static void getmessage()
+	{
+		System.out.println("second methods");
+	}
 
 }
