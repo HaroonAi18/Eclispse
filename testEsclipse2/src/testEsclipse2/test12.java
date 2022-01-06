@@ -15,5 +15,10 @@ public class test12 {
 		System.out.println("second methods");
 		//dsfasdfasdfafads
 	}
+	
+	public static void second()
+	{
+		//This is comming from remote or github.
+	}
 
 }
