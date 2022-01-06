@@ -13,6 +13,7 @@ public class test12 {
 	public static void getmessage()
 	{
 		System.out.println("second methods");
+		//dsfasdfasdfafads
 	}
 
 }
